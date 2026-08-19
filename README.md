@@ -2,7 +2,7 @@
 
 ### PHP/Laravel Developer → DevOps & Cloud Engineer 🚀
 
-**3+ years building production web applications • Now building and deploying real infrastructure projects**
+3+ years building production web applications • Building and deploying real infrastructure projects
 
 <p>
 <a href="https://www.linkedin.com/in/vishakha-chavan-25b275170">
