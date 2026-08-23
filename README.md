@@ -6,10 +6,6 @@
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=vishch24&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/vishch24?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-</p>
-
-<p>
 <a href="https://www.linkedin.com/in/vishakha-chavan-25b275170">
     <img src="https://img.shields.io/badge/LinkedIn-Vishakha%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
