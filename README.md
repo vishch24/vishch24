@@ -67,17 +67,17 @@
 
 ## 🚀 Featured Projects
 
+### 📝 ProCodeBlogs
+
+Dockerized Laravel 11 blogging platform via Docker Compose (PHP 8.2, Nginx, MySQL). Features automated GitHub Actions CI/CD pipelines with integrated secret scanning, multi-stage builds, and CVE-hardened runtimes.
+
+👉 [View Repository](https://github.com/vishch24/procodeblogs)
+
 ### 🔥 90 Days of DevOps
 
 My hands-on DevOps learning journey covering Linux, Git, Shell Scripting, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, and cloud infrastructure.
 
 👉 [View Repository](https://github.com/vishch24/90DaysOfDevOps)
-
-### 📝 ProCodeBlogs
-
-A full-stack blogging platform built with **Laravel**, featuring authentication, Google OAuth, email verification, rich-text editing, author-managed posts, and threaded comments.
-
-👉 [View Repository](https://github.com/vishch24/procodeblogs)
 
 ### 🐚 Shell Scripts
 
