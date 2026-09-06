@@ -1,5 +1,7 @@
 # Hi there, I'm Vishakha Chavan 👋
 
+<img src="https://github.com/vishch24/vishch24/blob/main/banner.png" alt="Profile Banner" width="100%">
+
 ### PHP/Laravel Developer → DevOps & Cloud Engineer 🚀
 
 3+ years building production web applications • Building and deploying real infrastructure projects
