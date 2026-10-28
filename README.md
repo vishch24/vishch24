@@ -8,7 +8,7 @@
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=vishch24&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-<a href="https://www.linkedin.com/in/vishakha-chavan-25b275170">
+<a href="https://www.linkedin.com/in/vishakha-chavan24">
     <img src="https://img.shields.io/badge/LinkedIn-Vishakha%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
